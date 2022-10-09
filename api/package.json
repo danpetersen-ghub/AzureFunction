@@ -6,6 +6,9 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
